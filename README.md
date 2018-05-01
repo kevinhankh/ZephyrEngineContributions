@@ -1,0 +1,2 @@
+# ZephyrEngineContributions
+The Zephyr engine is a C++ game engine for a group project in my third semester of the BTech games development program at BCIT (September - December 2017). This was a very ambitious project with an attempt to utilize a unique multi threaded system. With only 3 months to finish, in conjunction to our other courses, we had to speed up development near the end. We did find inefficient parts in our engine, but overall it was a great experience to have.
